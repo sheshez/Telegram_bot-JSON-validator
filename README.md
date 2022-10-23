@@ -1,2 +1,2 @@
-# Phyton-Telegram-bot
+# Python-Telegram-bot
 JSON Formatter &amp; Validator Telegram bot
